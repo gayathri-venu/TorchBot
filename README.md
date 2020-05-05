@@ -4,22 +4,26 @@ So this is basically a Chatbot based on Cornell Movie-Dialogs Corpus dataset bui
 
 ### Steps involved
 
-1. Handle loading and preprocessing of Cornell Movie-Dialogs Corpus dataset
+* Handle loading and preprocessing of Cornell Movie-Dialogs Corpus dataset
 
-2. Implement a sequence-to-sequence model with Luong attention mechanism(s)
+* Implement a sequence-to-sequence model with Luong attention mechanism(s)
 
-3. Jointly train encoder and decoder models using mini-batches
+* Jointly train encoder and decoder models using mini-batches
 
-4. Implement greedy-search decoding module
+* Implement greedy-search decoding module
 
-5. Interact with trained chatbot
+* Interact with trained chatbot
 
 
 ### References
-
+ 
  https://github.com/ywk991112/pytorch-chatbot
+ 
  https://github.com/spro/practical-pytorch/tree/master/seq2seq-translation
+ 
  https://github.com/floydhub/textutil-preprocess-cornell-movie-corpus
+ 
+ https://pytorch.org/tutorials/beginner/chatbot_tutorial.html
 
 
 
