@@ -1,4 +1,4 @@
-# Presenting TorchBot (dramatic enough :D)
+# Presenting TorchBot 
 
 ![Image](https://github.com/gayathri-venu/TorchBot/blob/master/bot.png)
 
